@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: #000;
+    text-align: center;
   }
   
   div,
@@ -28,4 +29,8 @@ body {
   h5,
   h6 {
     margin: 0;
+  }
+
+  .bootstrap__container{
+    width: 1140px;
   }
